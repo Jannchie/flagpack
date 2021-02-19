@@ -1,3 +1,9 @@
+# 这是Flagpack的一个分支
+
+仅仅在原版的基础上修改了台湾地区的国旗，供需要的人使用。
+
+This branch only modified the national flag of Taiwan region on the basis of the original, for the use of people in need.
+
 # Flagpack
 _A lightweight flag icon toolkit for the web_
 
